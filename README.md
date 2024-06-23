@@ -23,12 +23,12 @@ The `ErrorHandlingExample` smart contract is designed to showcase how to use err
 
 1. Click on the **File Explorers** tab on the left sidebar.
 2. Click on the **+** button or **New File** icon.
-3. Name your new file `ErrorHandlingExample.sol`.
+3. Name your new file `ErrorHandling.sol`.
 
 #### Copy and Paste the Contract Code
 
-1. Copy the Solidity code from the repository.
-2. Paste it into your newly created `ErrorHandlingExample.sol` file.
+1. Copy the error_handling.sol code from the repository.
+2. Paste it into your newly created `ErrorHandling.sol` file.
 
 #### Compile the Contract
 
@@ -45,7 +45,7 @@ The `ErrorHandlingExample` smart contract is designed to showcase how to use err
 #### Interact with the Contract
 
 1. After deployment, the contract's functions will appear under the **Deployed Contracts** section.
-2. Expand the `ErrorHandlingExample` contract to see all the available functions.
+2. Expand the `ErrorHandling` contract to see all the available functions.
 
 ### Example Interaction
 
